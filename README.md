@@ -32,7 +32,13 @@ I believe the future of development isn't writing code line-by-line — it's des
 <tr>
 <td width="50%" valign="top">
 
-**[Document RAG Pipeline](https://github.com/compiledwithproblems/Document-Rag-Pipeline)**
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Document-Rag-Pipeline">
+    <img src="https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge" alt="Document RAG Pipeline">
+  </a>
+</p>
+
+**[Document RAG Pipeline](https://github.com/build-with-brandon/Document-Rag-Pipeline)**
 
 Self-hosted RAG system for capturing, indexing, and querying technical documentation. Browser extension + API + MCP server.
 
@@ -41,9 +47,15 @@ Self-hosted RAG system for capturing, indexing, and querying technical documenta
 </td>
 <td width="50%" valign="top">
 
-**[Monarch IntelliJ Plugin](https://github.com/compiledwithproblems/Monarch-Intellij-Plugin)**
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Monarch-Intellij-Plugin">
+    <img src="https://img.shields.io/badge/Monarch-Plugin-7F52FF?style=for-the-badge" alt="Monarch">
+  </a>
+</p>
 
-AI context management for JetBrains IDEs. Story-based workflows, standards sync, and seamless task switching for AI-assisted development.
+**[Monarch IntelliJ Plugin](https://github.com/build-with-brandon/Monarch-Intellij-Plugin)**
+
+AI context management for JetBrains IDEs. Story-based workflows, standards sync, and seamless task switching.
 
 `Kotlin` `IntelliJ Platform` `Shell Scripts`
 
@@ -52,7 +64,13 @@ AI context management for JetBrains IDEs. Story-based workflows, standards sync,
 <tr>
 <td width="50%" valign="top">
 
-**[Personality Matrix](https://github.com/compiledwithproblems/Personality-Matrix)**
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Personality-Matrix">
+    <img src="https://img.shields.io/badge/Personality-Matrix-009688?style=for-the-badge" alt="Personality Matrix">
+  </a>
+</p>
+
+**[Personality Matrix](https://github.com/build-with-brandon/Personality-Matrix)**
 
 AI character engine with injectable personality configs. Template-driven NPCs for RPG/D&D with emotion-aware responses.
 
@@ -61,7 +79,13 @@ AI character engine with injectable personality configs. Template-driven NPCs fo
 </td>
 <td width="50%" valign="top">
 
-**[Trellis](https://github.com/compiledwithproblems/Trellis)**
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Trellis">
+    <img src="Trellis-logo.png" alt="Trellis" width="60">
+  </a>
+</p>
+
+**[Trellis](https://github.com/build-with-brandon/Trellis)**
 
 My framework for building software with AI. Principles, patterns, and practical setup for AI-assisted development.
 
@@ -77,7 +101,13 @@ My framework for building software with AI. Principles, patterns, and practical 
 <tr>
 <td width="50%" valign="top">
 
-**[Chalk](https://github.com/compiledwithproblems/Chalk)**
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Chalk">
+    <img src="Chalk-logo.png" alt="Chalk" width="60">
+  </a>
+</p>
+
+**[Chalk](https://github.com/build-with-brandon/Chalk)**
 
 iOS drawing app with Apple Pencil support, Vision OCR, and Apple Intelligence integration. Infinite canvas meets handwriting recognition.
 
@@ -86,7 +116,13 @@ iOS drawing app with Apple Pencil support, Vision OCR, and Apple Intelligence in
 </td>
 <td width="50%" valign="top">
 
-**[Pronoia](https://github.com/compiledwithproblems/Pronoia)**
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Pronoia">
+    <img src="Pronoia-logo.png" alt="Pronoia" width="60">
+  </a>
+</p>
+
+**[Pronoia](https://github.com/build-with-brandon/Pronoia)**
 
 Hierarchical goal-tracking that connects long-term vision with daily actions. Constraint-based daily notecard with 10-slot limit.
 
@@ -97,7 +133,13 @@ Hierarchical goal-tracking that connects long-term vision with daily actions. Co
 <tr>
 <td width="50%" valign="top">
 
-**[Cash Flow Canvas](https://github.com/compiledwithproblems/Cash-Flow-Canvas)**
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Cash-Flow-Canvas">
+    <img src="Cash-Flow-Canvas-logo.png" alt="Cash Flow Canvas" width="60">
+  </a>
+</p>
+
+**[Cash Flow Canvas](https://github.com/build-with-brandon/Cash-Flow-Canvas)**
 
 Visual finance projection tool. Node-based diagrams for mapping income, expenses, debts, and savings goals.
 
@@ -106,7 +148,13 @@ Visual finance projection tool. Node-based diagrams for mapping income, expenses
 </td>
 <td width="50%" valign="top">
 
-**[Orrery](https://github.com/compiledwithproblems/Orrery)**
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Orrery">
+    <img src="Orrery-logo.png" alt="Orrery" width="60">
+  </a>
+</p>
+
+**[Orrery](https://github.com/build-with-brandon/Orrery)**
 
 Visual journey mapping with a constellation metaphor. Plot your path from where you are to where you want to be.
 
@@ -117,7 +165,13 @@ Visual journey mapping with a constellation metaphor. Plot your path from where 
 <tr>
 <td width="50%" valign="top">
 
-**[Roost](https://github.com/compiledwithproblems/Roost)**
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Roost">
+    <img src="Roost-logo.png" alt="Roost" width="60">
+  </a>
+</p>
+
+**[Roost](https://github.com/build-with-brandon/Roost)**
 
 Household management for couples. Real-time CloudKit sync without backend servers. Meals, groceries, budgets, and more.
 
@@ -126,11 +180,37 @@ Household management for couples. Real-time CloudKit sync without backend server
 </td>
 <td width="50%" valign="top">
 
-**[MosaicUI](https://github.com/compiledwithproblems/Mosaic)**
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Bloom">
+    <img src="Bloom-logo.png" alt="Bloom" width="60">
+  </a>
+</p>
+
+**[Bloom](https://github.com/build-with-brandon/Bloom)**
+
+Plant care tracking with watering reminders and growth timelines. Visual thirst indicators and photo documentation.
+
+`Swift` `SwiftUI` `SwiftData` `CloudKit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Mosaic">
+    <img src="https://img.shields.io/badge/Mosaic-UI-FF6F61?style=for-the-badge" alt="MosaicUI">
+  </a>
+</p>
+
+**[MosaicUI](https://github.com/build-with-brandon/Mosaic)**
 
 Color theme library with 32 hand-crafted design systems. Search, preview, and export complete palettes.
 
 `React` `TypeScript` `Cloudflare Workers` `D1` `FTS5`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -184,6 +264,10 @@ Color theme library with 32 hand-crafted design systems. Search, preview, and ex
 
 ## Philosophy
 
+<p align="center">
+  <img src="Trellis-logo.png" alt="Trellis" width="80">
+</p>
+
 > *"Your principles are the trellis. AI is the accelerated growth."*
 
 I work at the intersection of structured thinking and AI acceleration. My approach:
@@ -193,7 +277,7 @@ I work at the intersection of structured thinking and AI acceleration. My approa
 - **Small steps, frequent checks** — AI drafts, you decide
 - **Constraint is a feature** — Limitations force clarity
 
-Read the full framework: **[Trellis](https://github.com/compiledwithproblems/Trellis)**
+Read the full framework: **[Trellis](https://github.com/build-with-brandon/Trellis)**
 
 ---
 
