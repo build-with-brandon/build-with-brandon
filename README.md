@@ -212,6 +212,18 @@ Color theme library with 32 hand-crafted design systems. Search, preview, and ex
 </td>
 <td width="50%" valign="top">
 
+<p align="center">
+  <a href="https://github.com/build-with-brandon/rei-for-all">
+    <img src="rei-platform-logo.png" alt="REI For All" width="60">
+  </a>
+</p>
+
+**[REI For All](https://github.com/build-with-brandon/rei-for-all)**
+
+Full-stack real estate investing education and deal management platform.
+
+`React 19` `React Router v7` `Vite 7` `Tailwind CSS v4` `TypeScript` `Cloudflare Workers`
+
 </td>
 </tr>
 </table>
