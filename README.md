@@ -226,6 +226,90 @@ Full-stack real estate investing education and deal management platform.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://github.com/build-with-brandon/harbormaster">
+    <img src="logos/harbormaster.png" alt="Harbormaster" width="60">
+  </a>
+</p>
+
+**[Harbormaster](https://github.com/build-with-brandon/harbormaster)**
+
+A macOS utility for monitoring and managing open ports on your local machine.
+
+`Tauri 2.x` `Rust` `React` `TypeScript` `Tailwind CSS` `Zustand`
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Fortune">
+    <img src="Fortune-logo.png" alt="Fortune" width="60">
+  </a>
+</p>
+
+**[Fortune](https://github.com/build-with-brandon/Fortune)**
+
+Personal finance dashboard with Maneki Neko theming. Bank account aggregation via SimpleFin, bill tracking, spending analytics, and iOS widgets.
+
+`Swift` `SwiftUI` `SwiftData` `CloudKit` `WidgetKit` `Charts`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Opal">
+    <img src="Opal-logo.png" alt="Opal" width="60">
+  </a>
+</p>
+
+**[Opal](https://github.com/build-with-brandon/Opal)**
+
+Multi-platform content distribution worker for scheduling and publishing to Instagram, TikTok, and Pinterest on a per-brand basis.
+
+`TypeScript` `Cloudflare Workers` `D1` `R2`
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://github.com/build-with-brandon/Sigyl">
+    <img src="sigyl-logo.png" alt="Sigyl" width="60">
+  </a>
+</p>
+
+**[Sigyl](https://github.com/build-with-brandon/Sigyl)**
+
+Client-side watermarking tool for content creators. Browser-based video/image watermarking with buyer tracking and DMCA takedown generation.
+
+`React` `TypeScript` `Cloudflare Workers` `D1` `ffmpeg.wasm` `Stripe`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://github.com/build-with-brandon/ct-homebuyers-program-wizard">
+    <img src="CT-Real-Estate-Wizard-logo.png" alt="CT Homebuyers Program Wizard" width="60">
+  </a>
+</p>
+
+**[CT Homebuyers Program Wizard](https://github.com/build-with-brandon/ct-homebuyers-program-wizard)**
+
+Calculator for Connecticut first-time homebuyers. CHFA program eligibility, mortgage payment breakdown, and scenario comparison.
+
+`React` `TypeScript` `Tailwind CSS` `Recharts` `Cloudflare Pages`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
